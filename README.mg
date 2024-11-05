@@ -36,11 +36,14 @@ Perplexity AI Translator는 웹 페이지에서 선택한 텍스트를 Perplexit
 - API 키는 스크립트 내의 `API_KEY` 변수에 직접 입력해야 합니다.
 - API 키를 안전하게 관리하고, 공개적으로 공유하지 않도록 주의하세요.
 
+### 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
-프로젝트 링크: https://github.com/LanGsA0/Perplexity-AI-Translator
 
+프로젝트 링크: https://github.com/LanGsA0/Perplexity-AI-Translator/
+
+## 감사의 말
 
 - [Perplexity AI](https://www.perplexity.ai/)
 - [Tampermonkey](https://www.tampermonkey.net/)
@@ -64,4 +67,36 @@ Perplexity AI Translator is a Tampermonkey script that translates selected text 
 ## Installation
 
 1. Install the Tampermonkey browser extension:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/
+   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+
+2. Click the link below to install the script:
+   
+   [Install Perplexity AI Translator](https://raw.githubusercontent.com/LanGsA0/Perplexity-AI-Translator/main/perplexity_ai_translator.user.js)
+
+3. When Tampermonkey prompts you to install the script, click the 'Install' button.
+
+## How to Use
+
+1. Select the text you want to translate on a web page.
+2. Click the 'Translate with Perplexity' button that appears near the selected text.
+3. The translation result will be displayed below the selected text.
+
+## Important Note
+
+- This script requires a Perplexity AI API key to function.
+- You must enter the API key directly into the `API_KEY` variable in the script.
+- Be careful to manage your API key securely and do not share it publicly.
+
+### License
+
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+Project Link: https://github.com/LanGsA0/Perplexity-AI-Translator/
+
+## Acknowledgments
+
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Tampermonkey](https://www.tampermonkey.net/)
