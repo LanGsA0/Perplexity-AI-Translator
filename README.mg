@@ -20,7 +20,7 @@ Perplexity AI Translator는 웹 페이지에서 선택한 텍스트를 Perplexit
 
 2. 아래 링크를 클릭하여 스크립트를 설치합니다:
    
-   [Perplexity AI Translator 설치](https://raw.githubusercontent.com/LanGsA0/Perplexity-AI-Translator/main/perplexity_ai_translator.user.js)
+   [Perplexity AI Translator 설치](https://raw.githubusercontent.com/LanGsA0/Perplexity-AI-Translator/main/Perplexity-AI-Translator.user.js)
 
 3. Tampermonkey가 스크립트 설치를 확인하는 창을 띄우면 '설치' 버튼을 클릭합니다.
 
