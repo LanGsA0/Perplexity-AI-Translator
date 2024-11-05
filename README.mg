@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Perplexity AI Translator는 웹 페이지에서 선택한 텍스트를 Perplexity AI를 사용하여 한국어로 번역하는 Tampermonkey 스크립트입니다.
+AI번역이라 영문으로된 질문을 번역할땐 번역 하단에 답변을 하기도 합니다.
 
 
 ## 주요 기능
