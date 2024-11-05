@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         Perplexity AI Translator (Final Version)
+// @name         Perplexity AI Translator
 // @namespace    http://tampermonkey.net/
 // @version      1.4
-// @description  Translate selected text using Perplexity AI API with improved UI, formatting, and language detection
+// @description  Translate selected text using Perplexity AI API
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
+// @updateURL    https://raw.githubusercontent.com/LanGsA0/Perplexity-AI-Translator/main/Perplexity-AI-Translator.user.js
+// @downloadURL  https://raw.githubusercontent.com/LanGsA0/Perplexity-AI-Translator/main/Perplexity-AI-Translator.user.js
 // ==/UserScript==
 
 (function() {
